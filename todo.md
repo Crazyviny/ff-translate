@@ -10,9 +10,9 @@
 ----
 #errata 
 
-- Cтр. [[046]]. описание под Deflect не верно - я заменил на корректное для deflect: Feeling
+- Стр. [[046]]. описание под Deflect не верно - я заменил на корректное для deflect: Feeling
 
-- Cтр. [[069]] - Была странная фраза - "If you say yes, they may move 1 point of your counsel to your Hx pool to their own Fx pool". Я убрал "to your Hx pool" и перевел как "Если ты скажешь да, он может переместить 1 очко из твоего Совета в свой Fx."
+- Стр. [[069]] - Была странная фраза - "If you say yes, they may move 1 point of your counsel to your Hx pool to their own Fx pool". Я убрал "to your Hx pool" и перевел как "Если ты скажешь да, он может переместить 1 очко из твоего Совета в свой Fx."
 
 - Стр. [[076]] Move 1 point of mimic to Hx to reduce harm by 1, or just because you want to. Что значит hust becosue you ewnat to?!  - Не однозначная фраза, я считаю что or just becuse значит что можно переносить очки и не уменьшая урон а просто когда хочешь. То же и самое и на стр. [[077]]
 
